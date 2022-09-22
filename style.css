@@ -2,6 +2,11 @@ body {
     background: red;
 }
 
+#foto1 {
+    width: 100%;
+    height: 450px;
+}
+
 h1 {
     text-align: center;
 }
