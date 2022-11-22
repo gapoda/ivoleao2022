@@ -45,3 +45,7 @@ h1 {
 p {
     text-align: center;
 }
+ 
+.produtos li { 
+    display: inline-block ;
+}
