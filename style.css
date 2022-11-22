@@ -25,6 +25,10 @@ nav a {
     font-size: 22px;
     text-decoration: none;    
  }
+ 
+.produtos li { 
+    display: inline-block ;
+}
 
 nav a:hover {
     color: rgb(255, 136, 0);
@@ -44,8 +48,4 @@ h1 {
 
 p {
     text-align: center;
-}
- 
-.produtos li { 
-    display: inline-block ;
 }
