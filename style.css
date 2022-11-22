@@ -29,7 +29,21 @@ nav a {
 .produtos li { 
     display: inline-block ;
 }
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
+}
 
+/*HOME*/
+
+#foto1 {
+    width: 100%;
+    height: 450px;
+}
+
+h1 {
+    text-align: center;
+}
 
 
 
