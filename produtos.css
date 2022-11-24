@@ -36,4 +36,5 @@ font-size: 25px;
 .produtos li {
   display: inline-block;
   text-align: center;
+  width: 30% ;
 } 
