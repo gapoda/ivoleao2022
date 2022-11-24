@@ -28,3 +28,6 @@ color: black;
 font-weight: bold;
 font-size: 25px;
 }
+.produtos li {
+  display: inline-block;
+} 
